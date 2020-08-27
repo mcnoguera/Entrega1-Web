@@ -1,0 +1,101 @@
+* {
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.banner {
+    background-image: url(/imagenes/byf.jpeg);
+    background-repeat: repeat;
+    color: #f5f5f5;
+}
+
+.footer {
+    background-color: #2D733E;
+    color: #f5f5f5;
+    background-repeat: repeat;
+}
+
+.text {
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.title {
+    margin-left: 40%;
+}
+
+body {
+    background-color: #f5f5f5;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 80 80' width='80' height='80'%3E%3Cpath fill='%232d733e' fill-opacity='0.29' d='M14 16H9v-2h5V9.87a4 4 0 1 1 2 0V14h5v2h-5v15.95A10 10 0 0 0 23.66 27l-3.46-2 8.2-2.2-2.9 5a12 12 0 0 1-21 0l-2.89-5 8.2 2.2-3.47 2A10 10 0 0 0 14 31.95V16zm40 40h-5v-2h5v-4.13a4 4 0 1 1 2 0V54h5v2h-5v15.95A10 10 0 0 0 63.66 67l-3.47-2 8.2-2.2-2.88 5a12 12 0 0 1-21.02 0l-2.88-5 8.2 2.2-3.47 2A10 10 0 0 0 54 71.95V56zm-39 6a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm40-40a2 2 0 1 1 0-4 2 2 0 0 1 0 4zM15 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm40 40a2 2 0 1 0 0-4 2 2 0 0 0 0 4z'%3E%3C/path%3E%3C/svg%3E");
+}
+
+.nav {
+    background-color: #f5f5f5;
+    height: 50px;
+}
+
+.about-me--image {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.about-me {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.background-white {
+    background-color: #f5f5f5;
+}
+
+main {
+    background-color: #f5f5f5;
+    margin-top: 9%;
+}
+
+.description {
+    font-size: 1.4vw;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.description span {
+    font-size: 38px;
+}
+
+.hobbies--img {
+    height: 300px;
+    width: 100%;
+}
+
+.academic--img {
+    height: 250px;
+    width: 100%;
+}
+
+.projects--img {
+    width: 100%;
+}
+
+h2 {
+    font-size: 60px !important;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.desPro {
+    font-size: 1.5vw;
+    text-align: center;
+}
+
+.h3 {
+    font-size: 3vw !important;
+}
+
+.videochiper {
+    width: 100%;
+    height: 80%;
+}
+
+.videopmc {
+    width: 100%;
+    height: 80%;
+}
